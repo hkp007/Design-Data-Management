@@ -1,0 +1,15 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Electron build artifacts
+dist/
+out/
+*.zip
+*.dmg
+*.exe
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore npm debug logs
+npm-debug.log
